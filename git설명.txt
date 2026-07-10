@@ -17,7 +17,7 @@ git add .
 git commit -m "First commit - web_guardian setup"
 
 # 3. Git 인증 정보 전달
-git remote set-url origin https://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@github.com/jinhan-yoon/web_guardian.git
+git remote set-url origin https://<토큰ID>@github.com/jinhan-yoon/web_guardian.git
 
 4단계: GitHub에 최종 업로드 (Push)
 로컬에서 만든 커밋을 GitHub 저장소로 전송합니다.
